@@ -30,7 +30,7 @@
     "zone.js": "^0.7.4",
     "diff": ">=3.5.0",
     "set-value": ">=2.0.1",
-    "ecstatic": ">=2.2.2"
+    "ecstatic": ">=4.1.4"
   },
   "devDependencies": {
     "@types/node": "^6.0.46",
